@@ -15,3 +15,9 @@ created the purchase class that allows the player to upgrade their damage
 To do:
 Create a class for each purchase button that will include the price as well as the increase (make it outside the purchase class so it can be used in a window for increasing passive income.
 Allow each button to have seperate odds and damage modifiers by making a class to extend the button class
+
+v0.04
+Fully implemented the Purchase class as well as created the Buy class for future proofing
+To do:
+Create windows that each are upgrades for different purchase types (ie odds, damage, etc)
+Create a way for passive income to be earned
