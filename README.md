@@ -21,3 +21,11 @@ Fully implemented the Purchase class as well as created the Buy class for future
 To do:
 Create windows that each are upgrades for different purchase types (ie odds, damage, etc)
 Create a way for passive income to be earned
+
+v0.05
+Implemented the windows for purchasing damage, multipliers, and odds modifiers
+Implemented Income class and window
+To do:
+Clean up any redundant code
+Clean up test comments and print statements
+Add more clearer comments
