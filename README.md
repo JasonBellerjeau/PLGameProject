@@ -33,3 +33,5 @@ Implemented Income class and window
   Clean up any redundant code
   Clean up test comments and print statements
   Add more clearer comments
+  Prevent integer overflow
+  Prevent odds going above 100
